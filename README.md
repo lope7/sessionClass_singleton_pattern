@@ -1,0 +1,1 @@
+# sessionClass_singleton_pattern
